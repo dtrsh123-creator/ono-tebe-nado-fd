@@ -318,7 +318,7 @@
   text-decoration: none;
 }
 
-.footer__social-list {
+.footer__social-list{
   list-style-type: none;
   display: flex;
   gap: 48px;
@@ -326,6 +326,6 @@
   margin-right: 50px;
 }
 
-.footer__social-icon {
+.footer__social-icon{
   width: 48px;
 }
